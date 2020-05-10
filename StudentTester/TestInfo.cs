@@ -7,6 +7,9 @@ using StudentTesterApp;
 
 namespace StudentTester
 {
+    /// <summary>
+    /// Данный класс содержит информацию об одном вопросе теста.
+    /// </summary>
     public class TestInfo
     {
         private string testTitle;

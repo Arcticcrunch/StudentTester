@@ -51,10 +51,12 @@ namespace StudentTesterApp
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+            // Создание всех используемых форм
             mainForm = new MainForm();
             loginForm = new LoginForm();
             infoForm = new InfoForm();
             resultForm = new ResultForm();
+            // Запуск главной формы
             Application.Run(mainForm);
         }
     }
