@@ -115,9 +115,9 @@
             this.CreatorInfo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(9)))), ((int)(((byte)(39)))), ((int)(((byte)(63)))));
             this.CreatorInfo.Location = new System.Drawing.Point(296, 416);
             this.CreatorInfo.Name = "CreatorInfo";
-            this.CreatorInfo.Size = new System.Drawing.Size(243, 15);
+            this.CreatorInfo.Size = new System.Drawing.Size(233, 15);
             this.CreatorInfo.TabIndex = 7;
-            this.CreatorInfo.Text = "Крютченко Никита 2019 (с) ИФМИТ ЛНУ";
+            this.CreatorInfo.Text = "Зайцев Александр 515ст2 2020 (с) ХАИ";
             this.CreatorInfo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // IFMITLogo
@@ -126,6 +126,7 @@
             this.IFMITLogo.Location = new System.Drawing.Point(47, 41);
             this.IFMITLogo.Name = "IFMITLogo";
             this.IFMITLogo.Size = new System.Drawing.Size(325, 326);
+            this.IFMITLogo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.IFMITLogo.TabIndex = 1;
             this.IFMITLogo.TabStop = false;
             // 

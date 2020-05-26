@@ -45,3 +45,4 @@ C:\Users\Johnta\Desktop\StudentTester-master\StudentTester\obj\Debug\StudentTest
 C:\Users\Johnta\Desktop\StudentTester-master\StudentTester\obj\Debug\StudentTester.csproj.CoreCompileInputs.cache
 C:\Users\Johnta\Desktop\StudentTester-master\StudentTester\obj\Debug\StudentTester.exe
 C:\Users\Johnta\Desktop\StudentTester-master\StudentTester\obj\Debug\StudentTester.pdb
+C:\GitHub\StudentTester\StudentTester\obj\Debug\StudentTester.csprojAssemblyReference.cache
